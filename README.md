@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @marijanab
-- 👀 I’m interested in the behaviour of different processes and their modelling, simulation, measurement and control.
+- 👀 I’m interested in the behavior of different processes and their modeling, simulation, measurement, and control.
